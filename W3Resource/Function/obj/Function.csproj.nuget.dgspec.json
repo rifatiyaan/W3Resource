@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\W3Resource\\W3Resource.csproj": {}
+    "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\Function\\Function.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\W3Resource\\W3Resource.csproj": {
+    "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\Function\\Function.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\W3Resource\\W3Resource.csproj",
-        "projectName": "W3Resource",
-        "projectPath": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\W3Resource\\W3Resource.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\Function\\Function.csproj",
+        "projectName": "Function",
+        "projectPath": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\Function\\Function.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\W3Resource\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\W3Resource\\W3Resource\\Function\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
