@@ -28,3 +28,11 @@ C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\W3Resource\obj\Debug
 C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.pdb
 C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.genruntimeconfig.cache
 C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\ref\W3Resource.dll
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.AssemblyInfo.cs
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.dll
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\refint\W3Resource.dll
+C:\Users\user\source\repos\W3Resource\W3Resource\W3Resource\obj\Debug\net6.0\W3Resource.pdb
